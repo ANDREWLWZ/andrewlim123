@@ -7,6 +7,6 @@ export default [
     {
         name: "screen",
         type: "videoTexture",
-        path: "/textures/JOIN THE NEW ERA _ 2023 VCT LOCK__IN _ Cinematic Trailer.mp4",
+        path: "/textures/kda.mp4",
     },
 ];
